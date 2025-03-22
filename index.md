@@ -1,5 +1,5 @@
 ---
-Hello Everyone!!!
 title: Welcome to my blog
+Author: Arpan
 ---
 
